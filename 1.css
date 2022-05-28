@@ -1,0 +1,31 @@
+body {  font-family: Arial, Verdana; 
+  font-size: 11pt; 
+  background-color:rgb(255, 255, 255); 
+  color: rgb(0, 0, 0)  
+}
+
+p {
+  font-style: normal;
+  color: rgb(47, 79, 79);
+  font-size: 16px;
+  line-height: 1;
+
+}
+h1{
+  font-weight: 600;
+  font-size: 26px;
+  color: rgb(47, 79, 79);
+}
+
+
+.red {
+  color: rgb(255, 0, 0);
+}
+
+.blue {
+  color: rgb(0, 0, 255);
+}
+
+.green {
+  color: rgb(0, 128, 0);
+}
